@@ -38,7 +38,8 @@ Our search platform allows:
 ### Participant Recruitment
 
 - Students of Information Science at a German university  
-- Voluntary, anonymous (pseudonyms)  
+- Voluntary, anonymous (pseudonyms), GDPR conform
+- Study was conducted with informed consent
 - Compensated with course credits
 
 ### Questionnaires (contained in the repository) 
