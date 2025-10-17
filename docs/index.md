@@ -61,7 +61,7 @@ Participants completed a modified *Finding A’s Test*, classifying character st
 
 ### lisp – Loggable Interactive Search Platform
 
-![Search Interface](../images/interface_clicked.png)
+![Search Interface](../images/interface_clicked.png "Search Interface")
 
 - Enter queries, view results, navigate pages
 - Save documents with stance color coding
@@ -74,8 +74,8 @@ Participants completed a modified *Finding A’s Test*, classifying character st
 - Demographics, search experience, perceptual speed
 - Average perceptual speed: 101.66 (median: 103, SD: 28.51)
 
-![Demographics](../images/demographics_notitle.png)
-![Perceptual Speed Scores](../images/ps_scores_new_bold.png)
+![Demographics of Participants](../images/demographics_notitle.png "Demographics of Participants")
+![Perceptual Speed Scores](../images/ps_scores_new_bold.png "Perceptual Speed Scores")
 
 ---
 
@@ -89,6 +89,6 @@ This dataset and platform can be applied in a variety of research and developmen
 - **Human-Computer Interaction:** evaluating interface designs for search platforms  
 - **Educational Technologies:** assessing learning and information acquisition strategies  
 
-![Markov Model of User Interactions](../images/MM_withnumbers.png)
+![Markov Model of User Interactions](../images/MM_withnumbers.png "Markov Model of User Interactions")
 
 *Figure: Markov model of user interactions. Transitions from states marked with * to **REVIEW** and from **REVIEW** back to those states were omitted for clarity. Transition probabilities indicated at the arrows and mean interaction times per state are averaged across all sessions. As **MARK** and **PAGE** have no actual duration, they are assigned a nominal value of 1 second for completeness.*
