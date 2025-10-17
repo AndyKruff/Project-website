@@ -1,7 +1,6 @@
 ---
 layout: default
-title: LISP - A Rich Interaction Dataset and
-Loggable Interactive Search Platform
+title: LISP - A Rich Interaction Dataset and Loggable Interactive Search Platform
 ---
 
 # Interactive Search Dataset & Resources
