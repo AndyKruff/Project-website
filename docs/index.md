@@ -78,7 +78,7 @@ Participants completed a modified *Finding A’s Test*:
 ### lisp – Loggable Interactive Search Platform
 
 <div style="text-align:center">
-<img src="https://raw.githubusercontent.com/AndyKruff/Project-website/main/images/welcome.png" 
+<img src="https://raw.githubusercontent.com/AndyKruff/Project-website/main/images/welcome_screen.png" 
      alt="Search Interface" style="max-width:80%; margin:1em 0;">
 </div>
 
