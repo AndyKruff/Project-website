@@ -13,7 +13,7 @@ Explore the user study dataset, the loggable interactive search platform, and us
 
 ## 📂 Dataset and System
 
-We used the [Conversational Argument Retrieval dataset](https://github.com/Touché-2020/args.me) from Touché 2020, based on the args.me corpus of Debate.org threads.  
+We used the [Conversational Argument Retrieval dataset](https://touche.webis.de/clef20/touche20-web/argument-retrieval-for-controversial-questions.html) from Touché 2020, based on the args.me corpus of Debate.org threads.  
 
 > Dataset highlights:
 > - 387,606 arguments across 50 TREC-style topics  
