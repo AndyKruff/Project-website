@@ -79,7 +79,8 @@ Participants completed a modified *Finding A’s Test*:
 ### lisp – Loggable Interactive Search Platform
 
 <div style="text-align:center">
-<img src="../images/interface_clicked.png" alt="Search Interface" style="max-width:80%; margin:1em 0;">
+<img src="https://raw.githubusercontent.com/<username>/<repo>/main/images/interface_clicked.png" 
+     alt="Search Interface" style="max-width:80%; margin:1em 0;">
 </div>
 
 - Enter queries, view results, navigate pages  
@@ -95,8 +96,10 @@ Participants completed a modified *Finding A’s Test*:
 - Average perceptual speed: **101.66** (median: 103, SD: 28.51)
 
 <div style="display:flex; gap:2em; flex-wrap:wrap; justify-content:center;">
-<img src="../images/demographics_notitle.png" alt="Demographics of Participants" style="max-width:45%;">
-<img src="../images/ps_scores_new_bold.png" alt="Perceptual Speed Scores" style="max-width:45%;">
+<img src="https://raw.githubusercontent.com/<username>/<repo>/main/images/demographics_notitle.png" 
+     alt="Demographics of Participants" style="max-width:45%;">
+<img src="https://raw.githubusercontent.com/<username>/<repo>/main/images/ps_scores_new_bold.png" 
+     alt="Perceptual Speed Scores" style="max-width:45%;">
 </div>
 
 ---
@@ -112,7 +115,8 @@ Participants completed a modified *Finding A’s Test*:
 </div>
 
 <div style="text-align:center">
-<img src="../images/MM_withnumbers.png" alt="Markov Model of User Interactions" style="max-width:80%; margin:1em 0;">
+<img src="https://raw.githubusercontent.com/<username>/<repo>/main/images/MM_withnumbers.png" 
+     alt="Markov Model of User Interactions" style="max-width:80%; margin:1em 0;">
 </div>
 
 *Figure: Markov model of user interactions. Transitions from states marked with * to **REVIEW** and back were omitted for clarity. Transition probabilities indicated at the arrows and mean interaction times per state are averaged across all sessions. **MARK** and **PAGE** have no actual duration, assigned nominally 1 second.*
