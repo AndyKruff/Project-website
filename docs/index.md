@@ -22,12 +22,12 @@ We used the [Conversational Argument Retrieval dataset](https://github.com/Touch
 
 Our search platform allows:
 
-<div class="callout">
+
 - **Query submission and reformulation**  
 - **Display of top-10 arguments per page** (title + snippet, expandable to full text)  
 - **Saving documents** as supporting or opposing a stance  
 - **Reviewing saved documents**
-</div>
+
 
 > Note: Argument titles were automatically generated using Llama3.
 
@@ -41,12 +41,10 @@ Our search platform allows:
 - Voluntary, anonymous (pseudonyms)  
 - Compensated with course credits
 
-### Questionnaires
+### Questionnaires (contained in the repository) 
 
-<div class="callout info">
 - **Pre-study:** demographics, socioeconomic background, online activity, search experience, interest rating for 26 topics  
 - **Post-study:** stance change, task difficulty rating
-</div>
 
 ### Perceptual Speed Test
 
@@ -106,13 +104,13 @@ Participants completed a modified *Finding A’s Test*:
 
 ## 🚀 Potential Applications
 
-<div class="callout">
+
 - **Interactive Information Retrieval:** study user behavior in argument retrieval and exploratory search  
 - **Personalization & Recommendation:** influence of topic interest & perceptual speed on search strategies  
 - **User Modeling:** predict search actions, stopping behavior, or stance selection  
 - **Human-Computer Interaction:** evaluate interface designs for search platforms  
 - **Educational Technologies:** assess learning and information acquisition strategies
-</div>
+
 
 <div style="text-align:center">
 <img src="https://raw.githubusercontent.com/AndyKruff/Project-website/main/images/MM_withnumbers.png" 
