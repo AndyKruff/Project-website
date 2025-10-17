@@ -78,14 +78,60 @@ Participants completed a modified *Finding A’s Test*:
 ### lisp – Loggable Interactive Search Platform
 
 <div style="text-align:center">
-<img src="https://raw.githubusercontent.com/AndyKruff/Project-website/main/images/interface_clicked.png" 
+<img src="https://raw.githubusercontent.com/AndyKruff/Project-website/main/images/welcome.png" 
      alt="Search Interface" style="max-width:80%; margin:1em 0;">
 </div>
+
+<div style="text-align:center">
+<img src="https://raw.githubusercontent.com/AndyKruff/Project-website/main/images/select_user_id.png" 
+     alt="Search Interface" style="max-width:80%; margin:1em 0;">
+</div>
+
+
+<div style="text-align:center">
+<img src="https://raw.githubusercontent.com/AndyKruff/Project-website/main/images/Example_topic.png" 
+     alt="Search Interface" style="max-width:80%; margin:1em 0;">
+</div>
+
+
+<div style="text-align:center">
+<img src="https://raw.githubusercontent.com/AndyKruff/Project-website/main/images/result_page.png" 
+     alt="Search Interface" style="max-width:80%; margin:1em 0;">
+</div>
+
+
+<div style="text-align:center">
+<img src="https://raw.githubusercontent.com/AndyKruff/Project-website/main/images/result_page_marked.png" 
+     alt="Search Interface" style="max-width:80%; margin:1em 0;">
+</div>
+
+
+<div style="text-align:center">
+<img src="https://raw.githubusercontent.com/AndyKruff/Project-website/main/images/result_page_marked_plus_popup.png" 
+     alt="Search Interface" style="max-width:80%; margin:1em 0;">
+</div>
+
+
+<div style="text-align:center">
+<img src="https://raw.githubusercontent.com/AndyKruff/Project-website/main/images/stopping_reason.png" 
+     alt="Search Interface" style="max-width:80%; margin:1em 0;">
+</div>
+
+<div style="text-align:center">
+<img src="https://raw.githubusercontent.com/AndyKruff/Project-website/main/images/Endscreen.png" 
+     alt="Search Interface" style="max-width:80%; margin:1em 0;">
+</div>
+
+
 
 - Enter queries, view results, navigate pages  
 - Save documents with stance color coding  
 - Summary popup at the end of each session  
 - Customizable: labels, logging, dataset  
+
+
+
+
 
 [Demo Perceptual Speed Test](https://andykruff.github.io/demo-ps-test/)
 
