@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Interactive Search Dataset & Resources
+layout: home
+title: LISP - A Rich Interaction Dataset and
+Loggable Interactive Search Platform
 ---
 
 # Interactive Search Dataset & Resources
@@ -114,7 +115,7 @@ Participants completed a modified *Finding A’s Test*:
 
 <div style="text-align:center">
 <img src="https://raw.githubusercontent.com/AndyKruff/Project-website/main/images/MM_withnumbers.png" 
-     alt="Markov Model of User Interactions" style="max-width:80%; margin:1em 0;">
+     alt="Markov Model of User Interactions" style="max-width:65%; margin:1em 0;">
 </div>
 
 *Figure: Markov model of user interactions. Transitions from states marked with * to **REVIEW** and back were omitted for clarity. Transition probabilities indicated at the arrows and mean interaction times per state are averaged across all sessions. **MARK** and **PAGE** have no actual duration, assigned nominally 1 second.*
